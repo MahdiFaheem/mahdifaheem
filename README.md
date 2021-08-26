@@ -1,10 +1,6 @@
 ### Hi there 👋, My name is Mahdi Hasan Faheem
 #### I am a Software Engineer
 
-I have recently graduated in B.Sc in Computer Science and Engineering and now working as a Junior Software Engineer. Throughout the years of me studying in university and working in the software companies I have acquired most of my skills. I have good academic accomplishments and now I am looking forward to develop my career in the software industry.
-
-I am interested in web designing and web development and want to build my career in these sectors. I like to constantly know and learn about new and upcoming technologies as well as their applications throughout.
-
 - 🔭 I’m currently working on ASP.NET Core / Angular / HTML / CSS / JS 
 - 🌱 I’m currently learning React 
 - 💬 Ask me about Anything 
